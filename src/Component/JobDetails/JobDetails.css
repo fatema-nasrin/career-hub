@@ -1,0 +1,11 @@
+.banner {
+    background-image: url('/public/banner.jpeg');
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+}
+.heading{
+    text-align: center;
+    margin-top: 130px;
+    font-size: larger;
+}

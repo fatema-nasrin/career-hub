@@ -1,0 +1,26 @@
+[
+    {
+      "id": "1",
+      "picture": "/public/network.png",
+      "categoryName": "Network Administrator",
+      "jobsAvailable": 412
+    },
+    {
+      "id": "2",
+      "picture": "/public/Cyber.png",
+      "categoryName": "Cybersecurity Analyst",
+      "jobsAvailable": 300
+    },
+    {
+      "id": "3",
+      "picture": "/public/data analyst.png",
+      "categoryName": "Data Analyst",
+      "jobsAvailable": 400
+    },
+    {
+      "id": "4",
+      "picture": "/public/software engineer.jpg",
+      "categoryName": "Software Engineer",
+      "jobsAvailable": 319
+    }
+  ]
